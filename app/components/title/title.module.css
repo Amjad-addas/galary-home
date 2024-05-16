@@ -1,0 +1,14 @@
+.title{
+    width: 100%;
+    padding: 55px 15px;
+    text-align: center;
+}
+.mainText{
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    color: black;
+}
+.subText{
+    color: #0d6efd;
+}

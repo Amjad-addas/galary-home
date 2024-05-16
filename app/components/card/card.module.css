@@ -1,0 +1,26 @@
+.CardMain{
+    padding: 5px;
+    position: relative;
+    display: block;
+
+}
+.imgCard{
+    border: solid 1px #111;
+    padding: 5px;
+    
+}
+.content{
+    position: absolute;
+    width: 80%;
+    bottom: 10px;
+    left: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.price{
+    width: 10%;
+    font-size: 15px;
+    font-weight: 900;
+    text-wrap: wrap;
+}

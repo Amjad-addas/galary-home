@@ -1,0 +1,22 @@
+.cardContent{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    box-shadow:  0 .125rem .25rem rgba(0,0,0,.075) !important;;
+}
+
+.subTitle{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #0d6efd;
+
+}
+.pargh{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3b3b3cf9;
+}

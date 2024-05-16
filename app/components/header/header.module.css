@@ -1,0 +1,26 @@
+.header{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+@media screen and (max-width: 668px) {
+    .header{
+        flex-direction: column;
+    }
+    
+}
+.contact{
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+    align-items: center;
+}
+.subcontact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 6px;
+}
